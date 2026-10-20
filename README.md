@@ -3,13 +3,16 @@
 <!-- <h3 align="center">ReactJS Frontend Dev ⚛️ | Clean UIs ✨ | Tiny animations, big impact 🎯 |</h3> -->
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=%24+whoami;Full+Stack+Developer;%24+cat+skills.txt;React+%7C+Node.js+%7C+TypeScript;%24+echo+%22Welcome+to+my+GitHub%22" />
+</p>
+
+
 <h5 align="center">
   
 _See you on the frontend! 👋🏻_
   
 </h5>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-ec&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-ec" /> </p>
 
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ecshreyasaraswat@gmail.com) 
